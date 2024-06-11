@@ -40,8 +40,15 @@ def gk_filterer( gk_data_all: pd.DataFrame, filters_dict: dict) -> pd.DataFrame:
 if __name__ == "__main__":
 
     # Goal keepers analytics
-    gk_data = pd.read_csv( "gk_data.csv", index_col=0)# Read the CSV data for 20 goalkeepers
+    gk_data = pd.read_csv( "gk_data.csv")# Read the CSV data for 20 goalkeepers
     good_keepers = gk_filterer(gk_data, {'h': 190, 't': 0, 'r': 85, 'd': 85, 'p': 85})
-    good_keepers = good_keepers.merge( gk_data[["name", "price"]], left_on="Names", right_on="name", how="left")
+    good_keepers = good_keepers.merge( gk_data[["name", "price", "nation", "league", "team"]], left_on="Names", right_on="name", how="left")
     good_keepers.drop(["name"], axis = 1, inplace= True)
-    good_keepers.to_csv("good_keepers.csv")
+    
+    #Uncomment below line to see analysis result in the good goalkeepers file
+    #good_keepers.to_csv("good_keepers.csv")
+
+    # Final list after analyzing the above results are
+    good_keeps_list = ["Court", "Allison", "Don", "Mike", "Kobel", "sczzcesny", "Casteels", "Alex Romiro", "Stegen"]
+    final_gks = gk_data[ gk_data["name"].isin(good_keeps_list)]
+    final_gks.to_csv("good_keepers.csv")
