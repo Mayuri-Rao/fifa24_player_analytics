@@ -1,0 +1,47 @@
+name,price,defence,height,acceleration,agression,agility,reaction,composure,balance,strength,vision,trait_1,trait_2,trait_3,trait_4,trait_5,trait_6,nation,league,team
+VIRGIL VAN DIJK,8,89,193,66,85,59,88,89,50,93,65,jockey,anticipate,bruiser,block,powerHeader,longPass,ned,pl,liv
+RUBEN DIAS,8,89,187,54,93,60,89,81,56,90,51,,areial,areial,block,powerHeader,,por,pl,manC
+MARQUINHOS,7.5,87,183,76,81,68,86,86,67,78,76,jockey,anticipate,areial,,powerHeader,,bra,l1,psg
+RONALD ARAUJO,7.5,86,188,71,87,56,84,76,55,87,59,jockey,anticipate,acrobatic,slideTackle,powerHeader,,uru,la,bar
+MATTHIJS DE LIGT,7.5,86,189,62,86,53,85,82,62,91,45,,bruiser,bruiser,block,,longPass,ned,bun,bayM
+DAVID ALABA,7,85,180,79,78,76,88,85,78,78,78,,anticipate,,,,,aus,la,rm
+RAPHAEL VARANE,7,85,191,75,78,62,86,82,39,84,59,,areial,areial,,,,fra,pl,manU
+JOHN STONES,7,85,188,67,80,66,86,87,59,77,78,longThrow,,,,,,eng,pl,manC
+ANDTONIO RUDIGER,7,85,190,71,91,56,83,78,50,91,61,,,,block,,,ger,la,rm
+AYMERIC LAPORTE,7,85,191,55,79,57,86,84,54,82,68,,,,,,longPass,spa,sau,nas
+ALESSANDRO BASTONI,7,85,190,68,83,58,86,84,57,83,69,jockey,,,,,longPass,ita,ser,bar
+JULES KOUNDE,7,85,180,85,78,71,86,82,74,80,62,,quickstep,relentless,slideTackle,,,,,
+KALIDOU KOULIBAILY,6.5,84,186,65,84,45,84,82,33,91,65,,bruiser,bruiser,block,powerHeader,,sene,sau,alH
+MATTHIAS GINTER,6.5,84,189,54,74,55,86,76,49,84,72,intercept,anticipate,,,,longPass,ger,bun,scF
+CHRIS SMALLING,6.5,84,194,52,84,54,87,88,43,85,56,,areial,areial,,powerHeader,,eng,ser,rom
+THIAGO SILVA,6.5,84,183,45,74,62,88,86,65,78,73,,,acrobatic,block,powerHeader,,bra,pl,che
+NIKLAS SULE,6.5,84,195,60,85,34,82,84,44,95,66,,bruiser,areial,,,,ger,bun,bvb
+LUCAS HERNANDEZ,6.5,84,184,74,90,69,84,77,69,77,63,,bruiser,bruiser,slideTackle,,,fra,l1,psg
+MILAN SKRINIAR,6.5,84,187,74,77,54,84,87,56,87,46,jockey,bruiser,bruiser,,,,slo,l1,psg
+GABRIEL,6.5,84,190,61,85,51,85,74,37,86,59,,bruiser,areial,,,,bra,pl,ars
+FIKAYO TOMORI,6.5,84,185,80,83,74,84,81,71,84,48,,,,block,,,eng,ser,ac
+KIM MIN JAE,6.5,84,190,75,84,65,82,72,65,88,57,intercept,areial,areial,slideTackle,powerHeader,,kor,bun,bayM
+LISANDRO MARTINEZ,6.5,84,178,77,91,77,85,87,82,80,76,,bruiser,bruiser,slideTackle,,longPass,arg,pl,manU
+BREMER,6.5,84,188,77,82,65,79,78,67,85,45,,bruiser,areial,block,powerHeader,,bra,ser,juv
+MATS HUMMELS,6,83,191,39,72,60,86,89,62,87,80,jockey,anticipate,aerial,trivela,,longPass,ger,bun,bvb
+FRANCESCO ACERBI,6,83,192,61,80,32,85,86,33,85,65,,bruiser,areial,block,,longPass,ita,ser,int
+NACHO FERNANDEZ,6.5,83,180,69,80,65,81,75,76,79,53,intercept,aerial,aerial,block,,,spa,la,rm
+JOSE MARIA GIMENEZ,6,83,185,70,87,56,78,75,57,85,46,,aerial,aerial,slideTackle,powerHeader,,uru,la,ath
+PAU TORRES,6,83,191,69,79,67,80,73,52,81,67,,,,,powerHeader,longPass,spa,pl,asV
+SVEN BOTMAN,6,83,193,53,86,57,83,77,34,90,59,jockey,bruiser,bruiser,,,longPass,ned,pl,new
+BENJEMIN PAVARD,6,83,186,68,74,66,84,78,66,78,66,intercept,anticipate,,slideTackle,,,fra,ser,int
+NICO SCHLOTTERBECK,6,83,191,79,83,68,83,77,66,84,68,intercept,aerial,,block,powerHeader,longPass,ger,bun,bvb
+WILLI OBRAN,6,83,186,50,83,48,82,72,56,85,44,,anticipate,,,powerHeader,longPass,hun,bun,rbL
+WILLIAM SALIBA,6,83,193,77,83,50,84,81,59,87,62,jockey,anticipate,,,powerHeader,,fra,pl,ars
+GIANLUCA MANCINI,6,83,190,59,94,34,83,80,57,83,52,,bruiser,bruiser,slideTackle,powerHeader,,ita,ser,rom
+ANDREAS CHRISTIANSEN,6,83,187,57,75,61,84,79,61,78,62,,,,,,,swi,la,bar
+STEFAN DE VRIJ,6,82,189,66,77,61,82,85,59,78,70,intercept,aerial,aerial,,,longPass,ned,ser,int
+JOSKO GVARDIOL,6,82,185,80,86,68,79,75,67,83,65,jockey,,,,powerHeader,longPass,cro,pl,manC
+NICOLAS OTAMENDI,6,82,183,63,90,58,81,79,58,83,62,,bruiser,aerial,,,,arg,por,ben
+INIAGO MARTINEZ,6,82,182,70,86,66,81,70,60,82,55,,,,slideTackle,,longPass,spa,la,bar
+FABIAN SCHAR,6,82,188,52,78,53,83,81,62,80,74,,,,,,longPass,swi,pl,new
+PRESNEL KIMPEMBE,6,82,189,78,90,68,80,79,59,87,64,intercept,aerial,aerial,,,,fra,l1,psg
+DAYOT UPAMECANO ,6,82,186,76,89,66,81,74,67,88,58,,bruiser,bruiser,,,,fra,bun,bayM
+MANUAL AKANJI,6,82,187,75,77,66,82,78,67,80,65,,,,slideTackle,,,swi,pl,manC
+MARIO HERMOSA,6,82,184,71,84,70,80,77,61,80,66,,aerial,,slideTackle,,longPass,spa,la,atM
+CRISTIAN ROMERO,6,82,185,72,89,67,83,82,65,81,50,intercept,bruiser,bruiser,slideTackle,,longPass,arg,pl,tot
