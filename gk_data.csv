@@ -1,0 +1,23 @@
+name,price,height,reflex,diving,pos,han,trait_1,trait_2,trait_3
+0,Court,8.0,199,93,85,90,89,CrossClaimer,FarThrow,NaN
+1,Allison,8.0,193,89,86,90,85,CrossClaimer,FarThrow,RushOut
+2,Stegen,8.0,187,91,86,86,85,CrossClaimer,Rush Out,Footwork
+3,Ederson,8.0,188,86,86,86,82,CrossClaimer,Rushout,LongPass
+4,Oblak,8.0,188,87,85,86,90,CrossClaimer,FarThrow,NaN
+5,Neuer,7.5,193,84,84,88,85,CrossClaimer,FarThrow,RushOut
+6,Don,7.5,196,89,90,83,82,CrossClaimer,Rush Out,Rushout
+7,Mike,7.5,191,89,85,85,82,CrossClaimer,FarThrow,NaN
+8,Kobel,7.5,195,89,86,85,84,CrossClaimer,FarThrow,RushOut
+9,sczzcesny,7.5,195,87,86,86,83,FarThrow,NaN,NaN
+10,Yassine Bounou,7.0,195,87,82,84,83,CrossClaimer,FarThrow,Footwork
+11,Navas,7.0,185,87,84,84,80,FarThrow,NaN,NaN
+12,Martinez,7.0,195,85,83,84,83,CrossClaimer,FarThrow,NaN
+13,onana,7.0,190,85,83,84,80,CrossClaimer,FarThrow,Rush Out
+14,Trapp,70,189,86,83,85,81,Rushout,Far Throw,NaN
+15,Sommer,7.0,183,90,78,82,78,Rush out,NaN,NaN
+16,Casteels,7.0,197,86,84,85,82,CrossClaimer,NaN,NaN
+17,Gulacsi,7.0,191,84,85,83,84,NaN,NaN,NaN
+18,Pope,7.0,199,86,82,84,83,NaN,NaN,NaN
+19,Alex Romiro,7.0,192,86,84,86,78,FarThrow,NaN,NaN
+20,Ramsdale,7.0,191,86,84,81,79,CrossClaimer,Rush Out,NaN
+21,Alex Meret,7.0,190,86,83,83,80,Foot work,NaN,NaN
