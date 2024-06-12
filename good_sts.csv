@@ -1,0 +1,41 @@
+,Names,pos,acceleration,sprint,finish,heading,aggression,balance,price,nation,league,team
+0,ERLING HAALAND,96.0,82.0,94.0,96.0,83.0,87.0,72.0,9.0,nor,pl,manC
+1,KYLIAN MBAPPE,93.0,97.0,97.0,94.0,,,82.0,9.0,fra,l1,psg
+2,LIONEL MESSI,91.0,87.0,,89.0,,,95.0,9.0,arg,msl,iM
+3,KARIM BENZEMA,92.0,78.0,79.0,91.0,90.0,,72.0,8.5,fra,sau,alII
+4,HARRY KANE,94.0,,,95.0,89.0,80.0,73.0,8.5,eng,bun,bayM
+5,ROBERT LEWANDOWSKI,94.0,76.0,75.0,93.0,91.0,81.0,83.0,8.5,pol,la,bar
+6,ANTOINE GRIEZMANN,90.0,80.0,80.0,90.0,85.0,74.0,84.0,8.0,fra,la,atM
+7,VICTOR OSIMHEN,90.0,87.0,92.0,91.0,84.0,,,8.0,nig,ser,nap
+8,LAUTARO MARTINEZ,90.0,83.0,77.0,90.0,86.0,90.0,89.0,8.0,arg,ser,int
+9,CHRISTOPHER NKUNKU,86.0,81.0,82.0,86.0,,,90.0,8.5,fra,pl,che
+10,CRISTIANO RONALDO,90.0,,80.0,87.0,87.0,,,8.5,por,sau,alN
+11,SADIO MANE,85.0,84.0,85.0,85.0,,75.0,88.0,8.5,sen,sau,alN
+12,DIOGO JOTA,87.0,85.0,80.0,85.0,86.0,85.0,85.0,8.0,por,pl,liv
+13,IAGO ASPAS,88.0,78.0,84.0,90.0,,,72.0,7.5,spa,la,celV
+14,CIRO IMMOBILE,90.0,84.0,86.0,91.0,81.0,73.0,84.0,7.5,ita,ser,lat
+15,MEMPHIS DEPAY,85.0,81.0,83.0,,,72.0,81.0,7.5,ned,la,atM
+16,ROMELU LUKAKU,85.0,,86.0,86.0,83.0,71.0,,7.0,bel,ser,rom
+17,GABRIEL JESUS,88.0,86.0,81.0,,,82.0,90.0,7.5,bra,pl,ars
+18,KOLO MUANI,85.0,90.0,91.0,,,,83.0,7.5,fra,l1,psg
+19,SEBASTIAN HALLER,88.0,,,85.0,85.0,,,6.5,cos,bun,bvb
+20,WISSAM BEN YEDDER,88.0,81.0,80.0,87.0,,,91.0,6.5,fra,l1,mon
+21,EDIN DZEKO,86.0,,,87.0,87.0,,,6.5,,tur,
+22,BORJA IGLESIAS,86.0,,,86.0,82.0,70.0,,6.5,spa,la,bet
+23,PATRICK SCHICK,85.0,75.0,83.0,,85.0,,,6.5,cz,bun,bayL
+24,DUSAN VLAHOVIC,86.0,77.0,83.0,88.0,,,,6.5,ser,ser,juv
+25,CALLUM WILSON,87.0,78.0,82.0,86.0,,74.0,72.0,6.5,eng,pl,new
+26,ANGEL CORREA,85.0,86.0,85.0,85.0,,79.0,89.0,6.5,arg,la,atM
+27,YOUSSEF EN-NESYRI,85.0,80.0,81.0,,88.0,76.0,,6.0,mor,la,sev
+28,DARWIN NUNEZ,86.0,88.0,92.0,,,80.0,,6.5,uru,pl,liv
+29,TAREMI,86.0,79.0,77.0,,,,,6.0,irn,por,por
+30,TIMO WERNER,86.0,93.0,89.0,,,,76.0,6.0,ger,bun,rb
+31,PAULO DYBALA,,84.0,76.0,,,,90.0,8.5,arg,ser,rom
+32,ANGEL DI MARIA,,80.0,76.0,,,72.0,75.0,7.0,arg,por,ben
+33,RAFA,,94.0,93.0,,,,89.0,7.0,por,por,ben
+34,CODY GAKPO,,87.0,84.0,,,,71.0,6.5,ned,pl,liv
+35,GERARD MORENO,,77.0,77.0,88.0,82.0,,72.0,7.0,spa,la,val
+36,BOULAYE DIA,,80.0,84.0,86.0,,,70.0,6.5,sen,ser,sal
+37,LOIS OPENDA,,94.0,93.0,,,74.0,84.0,6.0,bel,bun,rb
+38,ENES UNAL,,,,87.0,81.0,75.0,73.0,6.0,tur,la,cel
+39,ROBERTO FIRMINO,,,,,,75.0,86.0,6.5,bra,sau,alA
